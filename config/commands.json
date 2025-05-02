@@ -1,0 +1,10 @@
+{
+    "greeting": ["hello", "hi", "hey voicey"],
+    "add_task": ["add task", "new task"],
+    "list_tasks": ["list tasks", "show tasks"],
+    "play_music": ["play music", "start playlist"],
+    "current_time": ["what time", "current time"],
+    "weather": ["weather", "forecast"],
+    "wiki_summary": ["tell about", "who is", "what is"]
+  }
+  

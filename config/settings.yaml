@@ -1,0 +1,4 @@
+music_folder: music
+weather_api_key: YOUR_OPENWEATHERMAP_API_KEY
+default_city: Yerevan
+wiki_lang: en
